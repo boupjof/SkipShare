@@ -7,11 +7,17 @@ Pour l'utiliser rien de plus simple il suffit d'avoir l'extension Greasemonkey e
 Pour le moment le script gère les sites suivants :
 
 http://www.humha.info/*
+
 http://www.2424buzz.com/*
+
 http://www.top100videos.fr/*
+
 http://paf-le-buzz.fr/*
+
 http://megavideoz.net/*
+
 http://www.devilbuzz.net/*
+
 http://www.salameche.com/*
 http://docteur-lol.net/*
 http://info-deroutante.info/*
